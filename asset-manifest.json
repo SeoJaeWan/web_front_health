@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/web_front_health/static/js/main.fcbb6704.chunk.js",
+    "main.js.map": "/web_front_health/static/js/main.fcbb6704.chunk.js.map",
+    "runtime-main.js": "/web_front_health/static/js/runtime-main.6aa695c7.js",
+    "runtime-main.js.map": "/web_front_health/static/js/runtime-main.6aa695c7.js.map",
+    "static/css/2.c5a3e00c.chunk.css": "/web_front_health/static/css/2.c5a3e00c.chunk.css",
+    "static/js/2.10fd060a.chunk.js": "/web_front_health/static/js/2.10fd060a.chunk.js",
+    "static/js/2.10fd060a.chunk.js.map": "/web_front_health/static/js/2.10fd060a.chunk.js.map",
+    "index.html": "/web_front_health/index.html",
+    "precache-manifest.72ac200f66c8bbcfe0a4f645b89957aa.js": "/web_front_health/precache-manifest.72ac200f66c8bbcfe0a4f645b89957aa.js",
+    "service-worker.js": "/web_front_health/service-worker.js",
+    "static/css/2.c5a3e00c.chunk.css.map": "/web_front_health/static/css/2.c5a3e00c.chunk.css.map",
+    "static/js/2.10fd060a.chunk.js.LICENSE.txt": "/web_front_health/static/js/2.10fd060a.chunk.js.LICENSE.txt",
+    "static/media/BMJUA.ttf": "/web_front_health/static/media/BMJUA.37976cec.ttf",
+    "static/media/BMJUA.eot": "/web_front_health/static/media/BMJUA.498af60e.eot",
+    "static/media/BMJUA.woff": "/web_front_health/static/media/BMJUA.819fd783.woff",
+    "static/media/BMJUA.woff2": "/web_front_health/static/media/BMJUA.e38ba4b4.woff2",
+    "static/media/H&S.png": "/web_front_health/static/media/H&S.84229188.png",
+    "static/media/Ml5.png": "/web_front_health/static/media/Ml5.90b8d3ef.png",
+    "static/media/semantic.min.css": "/web_front_health/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/nodejs.png": "/web_front_health/static/media/nodejs.270f55ff.png",
+    "static/media/react-logo.png": "/web_front_health/static/media/react-logo.c5453a21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aa695c7.js",
+    "static/css/2.c5a3e00c.chunk.css",
+    "static/js/2.10fd060a.chunk.js",
+    "static/js/main.fcbb6704.chunk.js"
+  ]
+}
