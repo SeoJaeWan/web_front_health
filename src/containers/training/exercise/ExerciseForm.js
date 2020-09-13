@@ -26,7 +26,7 @@ const ExerciseForm = ({ history }) => {
   let { routin, poseCount, success_count } = useSelector(({ training }) => ({
     routin: training.routin,
     poseCount: training.poseCount,
-    success_count: training.success_count,
+    success_count: training.logData.success_count,
   }));
 
   let [view, setView] = useState(true); // 시작 전 모달창을 출력시카기 위해서 사용
@@ -209,6 +209,7 @@ const ExerciseForm = ({ history }) => {
         description={"10초 뒤에 시작합니다! 준비!! (뒤로가기 : 화면)"}
         onCancel={() => history.goBack()}
       />
+      {console.log(success_count)}
       <ExerciseCom
         setup={setup}
         draw={draw}

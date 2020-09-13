@@ -7,10 +7,11 @@ const ExerciseCom = ({ setup, draw, count, training }) => {
     <>
       <Progress value="1" max="10"></Progress>
       {/* 시간 넣을곳 퍼센트 바로 해서 사용 ( training.timmer ) */}
-
+      <h1>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp; 횟수 : {count.length}
+      </h1>
       <TrainBox>
-        <h1>{count}</h1>
-        {/* {console.log(count)} */}
         <div className="trainImg">
           {/* <p>{training.poses[training.state]}</p> */}
           {/* <p>{count}</p> */}
